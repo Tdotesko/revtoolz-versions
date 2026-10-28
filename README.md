@@ -5,5 +5,6 @@ Latest version info for RevToolz FiveM resources. Each resource reads its own fi
 | Resource | File |
 | --- | --- |
 | RevToolz Hydro | `revtoolz_hydro.json` |
+| RTZ Concert | `rtz_concert.json` |
 
 Format: `{ "version": "1.0.1", "notes": "What changed", "url": "https://..." }`
