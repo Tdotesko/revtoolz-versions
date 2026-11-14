@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
-  "notes": "First release.",
+  "version": "1.0.3",
+  "notes": "Effect sounds have their own volume (effectVolume in config.lua). Media folder files with spaces or brackets in the name are flagged for renaming. Stage placement on spawn made firmer. New exports: CreateStage, DeleteStage, SetStageSettings.",
   "url": "https://revtoolz.shop/docs/rtz-concert/#changelog"
 }
