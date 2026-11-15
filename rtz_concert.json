@@ -1,5 +1,5 @@
 {
-  "version": "1.0.3",
-  "notes": "Effect sounds have their own volume (effectVolume in config.lua). Media folder files with spaces or brackets in the name are flagged for renaming. Stage placement on spawn made firmer. New exports: CreateStage, DeleteStage, SetStageSettings.",
+  "version": "1.0.4",
+  "notes": "Much lower CPU use: about 0.12 ms near a stage with nothing playing (was 0.57) and 0.36 to 0.42 ms at a running show (was 0.61 to 0.68). Idle stages show a steady dim glow (Config.Lights.idleLook = 'full' brings the sweeping heads back). New Config.Lights.performance setting, off by default. The NPC crowd and its sounds are removed.",
   "url": "https://revtoolz.shop/docs/rtz-concert/#changelog"
 }
