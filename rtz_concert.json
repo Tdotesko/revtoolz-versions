@@ -1,5 +1,5 @@
 {
-  "version": "1.0.4",
-  "notes": "Much lower CPU use: about 0.12 ms near a stage with nothing playing (was 0.57) and 0.36 to 0.42 ms at a running show (was 0.61 to 0.68). Idle stages show a steady dim glow (Config.Lights.idleLook = 'full' brings the sweeping heads back). New Config.Lights.performance setting, off by default. The NPC crowd and its sounds are removed.",
+  "version": "1.1.0",
+  "notes": "The script now plays music files from its own media folder only: put your songs in rtz_concert/media. The demo set's five songs come with the script in media/demo. Fixed: the Media folder list staying on Loading, and a DJ deck going silent when it takes over a playing song. Blocked links is now Blocked songs.",
   "url": "https://revtoolz.shop/docs/rtz-concert/#changelog"
 }
